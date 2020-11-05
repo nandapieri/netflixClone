@@ -19,7 +19,7 @@
 
 body {
   background-color: var(--preta);
-  font-family: 'Times New Roman', Times, serif;
+  font-family: Arial, Helvetica, sans-serif
   color: var(--branca);
 }
 
@@ -101,4 +101,9 @@ header nav a:hover {
   height: 100%;
   width: 100%;
   display: block;
+}
+
+/**Carrossel*/
+.carrossel-filmes {
+  margin-top: 5px;
 }
